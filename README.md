@@ -1,4 +1,4 @@
--👋🏽 Hi am @edwin-okun \n
+-👋🏽 Hi am @edwin-okun
 -👷🏽‍♂️ Am currently an Odoo Consultant and Application Support Officer
 -🧰 Technical abilities : ERP Software implementer, Ms Business Central Report Design, Odoo Studio, Basic Networking, Basic Computer Repair and Maintenance.
 -💻 Programming abilities : PHP, MySQL, Python, PostgreSQL, JS, jQuery, HTML, CSS
