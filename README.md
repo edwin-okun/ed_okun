@@ -1,6 +1,6 @@
--👋🏽 Hi am @edwin-okun
--👷🏽‍♂️ Am currently an Odoo Consultant and Application Support Officer
--🧰 Technical abilities : ERP Software implementer, Ms Business Central Report Design, Odoo Studio, Basic Networking, Basic Computer Repair and Maintenance.
--💻 Programming abilities : PHP, MySQL, Python, PostgreSQL, JS, jQuery, HTML, CSS
--💽 ERP System : Odoo (v14, v15), Ms D365, Fusion Retail
--📚 I'm currently learning JS
+-👋🏽 Hi am @edwin-okun<br/>
+-👷🏽‍♂️ Am currently an Odoo Consultant and Application Support Officer<br/>
+-🧰 Technical : ERP Software implementer, Ms D365 Report Design, Odoo Studio, Basic Computer Repair, Networking and Maintenance.<br/>
+-💻 Programming : PHP, MySQL, Python, PostgreSQL, JS, jQuery, HTML, CSS.<br/>
+-💽 ERP System : Odoo (v14, v15), Ms D365, Fusion Retail<br/>
+-📚 I'm currently learning JS<br/>
