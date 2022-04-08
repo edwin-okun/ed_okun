@@ -9,6 +9,6 @@
 -🥅 I am looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential. <br/>
 -📝 Through my career, I have developed the ability to work under extreme pressure, offer customer satisfaction, troubleshoot and solve urgent technical issues with great efficiency, gain a good eye for detail and know how to prioritize tasks.<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-okun&show_icons=true&theme=radical)](https://github.com/edwin-okun/github-readme-stats)
+<!-- [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-okun&show_icons=true&theme=radical)](https://github.com/edwin-okun/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&theme=radical)](https://github.com/edwin-okun/github-readme-stats)
