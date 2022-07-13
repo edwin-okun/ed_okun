@@ -1,7 +1,7 @@
 -👋🏽 Hi am @edwin-okun.<br/>
 -🏳 Fluent in English and Swahili.<br/>
--👷🏽‍♂️ Am currently an Odoo Implementation Consultant and Application Support Officer.<br/>
--🧰 Technical : ERP Software implementer, Customer Support, Ms D365 Report Design, Odoo Studio, Basic Computer Repair, Networking and Maintenance.<br/>
+-👷🏽‍♂️ Am currently an Odoo Implementation Consultant | Application Support Officer | Web Developer.<br/>
+-🧰 Technical : ERP Software implementer, Customer Support, Ms D365 Report Design, Odoo Customization, Web Development, Basic Computer Repair, Networking and Maintenance.<br/>
 -💻 Programming : PHP, MySQL, Python, PostgreSQL, JS, jQuery, HTML, CSS.<br/>
 -💽 ERP System : Odoo (v14, v15), Ms D365, FusionPMs, FusionRetail.<br/>
 -🤹🏽‍♂️ Other Skills : Good communication skills, team player, problem-solver, critical thinker, strong customer service, fast learner, can-do attitude.<br/>
