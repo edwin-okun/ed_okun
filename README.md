@@ -13,11 +13,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&langs_count=8&theme=radical)](https://github.com/edwin-okun/github-readme-stats) -->
 
-[![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&hide_progress=true&show=python,php)](https://github.com/edwin-okun/github-readme-stats)
+[![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&hide_progress=true&hide=javascript,html,css)](https://github.com/edwin-okun/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&show=python)](https://github.com/edwin-okun/github-readme-stats)
 
-<a href="https://app.testdome.com/cert/356a8eb243764973a4386faa06403dfe" class="testdome-certificate-stamp gold"><span class="testdome-certificate-name">Edwin Okun</span><span class="testdome-certificate-test-name">PHP </span><span class="testdome-certificate-card-logo">TestDome<br />Certificate</span></a><script>var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+<a href="https://app.testdome.com/cert/356a8eb243764973a4386faa06403dfe" class="testdome-certificate-stamp gold">
+          <span class="testdome-certificate-name">Edwin Okun</span>
+          <span class="testdome-certificate-test-name">PHP</span>
+          <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+</a>
+<script>
+          var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", 
+          link = document.createElement("link"); 
+          link.href = stylesheet, 
+          link.type = "text/css", 
+          link.rel = "stylesheet", 
+          link.media = "screen,print", 
+          document.getElementsByTagName("head")[0].appendChild(link);
+</script>
 
 <a href="https://www.testdome.com/certificates/e5992e92083b4e29ab33dd406fdbf787" class="testdome-certificate-stamp gold">
           <span class="testdome-certificate-name">Edwin Okun</span>
