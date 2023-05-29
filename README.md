@@ -13,9 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&langs_count=8&theme=radical)](https://github.com/edwin-okun/github-readme-stats) -->
 
-[![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&hide_progress=true&hide=javascript,html,css)](https://github.com/edwin-okun/github-readme-stats)
+[![Edwin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwin-okun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&show=python)](https://github.com/edwin-okun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-okun&hide=html,css)](https://github.com/edwin-okun/github-readme-stats)
 
 <a href="https://app.testdome.com/cert/356a8eb243764973a4386faa06403dfe" class="testdome-certificate-stamp gold">
           <span class="testdome-certificate-name">Edwin Okun</span>
