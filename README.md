@@ -1,13 +1,11 @@
 -👋🏽 Hi am @edwin-okun.<br/>
 -🏳 Fluent in English and Swahili.<br/>
--👷🏽‍♂️ Am currently a Backend Engineer | Odoo Implementation Consultant | Application Support Officer | Web Developer.<br/>
--💻 Programming : Python, PHP, SQL(MySQL & PostgreSQL), JS, jQuery, HTML, CSS.<br/>
--📱 Technologies : FastAPI, Django, SMS Gateways, Payment Gateways.<br/>
--🧰 Technical : ERP Software implementer, Customer Support, Ms D365 Report Design, Odoo Customization, Web Development, Basic Computer Repair, Networking and Maintenance.<br/>
--💽 ERP System : Odoo (v14, v15), Ms D365, FusionPMs, FusionRetail.<br/>
+-👷🏽‍♂️ Am currently a Backend Engineer | Odoo Implementation Consultant | AI Application Software Engineer.<br/>
+-💻 Programming : Python, TypeScript, SQL(MySQL & PostgreSQL), JS, jQuery, HTML, CSS.<br/>
+-📱 Technologies : FastAPI, Django, SMS Gateways, Payment Gateways, AI Integrations.<br/>
 -🤹🏽‍♂️ Other Skills : Good communication skills, team player, problem-solver, critical thinker, strong customer service, fast learner, can-do attitude.<br/>
 -🥅 I am looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential. <br/>
--📝 With over 5 years in my career, I have developed the ability to work under extreme pressure, offer customer satisfaction, troubleshoot and solve urgent technical issues with great efficiency, gain a good eye for detail and know how to prioritize tasks.<br/>
+-📝 With over 5 years in my career, I have developed the ability to work under pressure, offer customer satisfaction, troubleshoot and solve urgent technical issues with great efficiency, gain a good eye for detail and know how to prioritize tasks.<br/>
 
 <!-- [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-okun&show_icons=true&theme=radical)](https://github.com/edwin-okun/github-readme-stats)
 
